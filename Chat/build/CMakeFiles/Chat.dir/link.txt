@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Chat.dir/main.cpp.o CMakeFiles/Chat.dir/sha1.cpp.o CMakeFiles/Chat.dir/User.cpp.o CMakeFiles/Chat.dir/Message.cpp.o CMakeFiles/Chat.dir/ConsoleChat.cpp.o CMakeFiles/Chat.dir/NetWorkStream.cpp.o -o Chat 

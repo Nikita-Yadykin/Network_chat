@@ -1,0 +1,3 @@
+/home/nikita/projects/Repositories/Network_chat/TCP_client/build/CMakeFiles/Client.dir
+/home/nikita/projects/Repositories/Network_chat/TCP_client/build/CMakeFiles/edit_cache.dir
+/home/nikita/projects/Repositories/Network_chat/TCP_client/build/CMakeFiles/rebuild_cache.dir
